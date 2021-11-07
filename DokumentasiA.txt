@@ -1,0 +1,1 @@
+pfSense adalah sistem operasi open source berbasis linux FreeBSD yang dirancang agar dapat berfungsi sebagai router dan firewall. Sistem operasi ini dapat diinstal pada komputer pribadi atau PC. Sistem ini sudah terintegrasi dengan web interface yang memudahkan network engineer untuk mengontrol semua kebutuhan network serta keamanan yang kompleks.
